@@ -2,7 +2,7 @@
 
 
 <!--
-**NituChaudhari/NituChaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NituChaudhari/NituChaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning...Javascript php and python
 - 📫 How to reach me: ...{email)nituchaudhari67@gmail.com
 
--->
+
