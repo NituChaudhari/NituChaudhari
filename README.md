@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m looking for job on...software devlopment
 - 🌱 I’m currently learning...Javascript php and python
-- 📫 How to reach me: ...{email)nituchaudhari67@gmail.com
+- 📫 How to reach me: ...(Email)nituchaudhari67@gmail.com
 
 
